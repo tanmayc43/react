@@ -1,6 +1,8 @@
+import Movie from './movie'
+//component name should start with an uppercase letter
 function App() {
   return(
-     <h1>Vite is nice</h1>
+    <Movie />
   )
 }
 

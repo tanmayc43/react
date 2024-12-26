@@ -7,4 +7,7 @@ root.render(
   <React.StrictMode>
     <App />
   </React.StrictMode>
+  //works without safemode as well
 );
+
+//writing html through js
